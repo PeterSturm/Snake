@@ -1,0 +1,5 @@
+
+public enum State
+{
+	MENU, INITGAME, GAME, INITHIGHSCORE, HIGHSCORE, GAMEOVER
+}
